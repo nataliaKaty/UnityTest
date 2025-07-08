@@ -97,3 +97,15 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+/UnityTest/Packages
+/UnityTest/Library/PackageCache
+/UnityTest/Library/BurstCache
+/UnityTest/Library/ShaderCache
+/UnityTest/Library/StateCache
+/UnityTest/Library/Artifacts
+/UnityTest/Library/TempArtifacts
+/UnityTest/Temp
+
+
+
