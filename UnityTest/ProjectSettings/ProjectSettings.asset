@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: f162aacce6cc2ef4ab11aca12375ef49
+  productGUID: e67b34fb795de3d4fb3d29c3dc3cf9b0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: UnityTest
+  productName: TestUnity
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -596,14 +596,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: UnityTest
+  metroPackageName: TestUnity
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: UnityTest
+  metroApplicationDescription: TestUnity
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -674,10 +674,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: f49194f4-8853-4e2a-878b-6c3d464a8970
+  cloudProjectId: 13cd5624-c260-4cb4-8ce2-774df496d59c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: UnityTest
+  projectName: TestUnity
   organizationId: unity_llfa6cacazl2nw
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
